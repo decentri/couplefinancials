@@ -1,5 +1,3 @@
-# couplefinancials
-
 # 20211119 Day 0 aka The Setup
 
 Start to take charge of life financially. Implementing by means of coding.
